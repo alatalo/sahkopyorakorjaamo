@@ -14,5 +14,6 @@ Jos sinulla on tiedossa esim. omassa kaupungissasi toimiva täyden palvelun säh
 
 Haluamme auttaa kaikkia sähköpyöräilystä kiinnostuneita ja sitä harrastavia löytämään omasta kotikaupungistaan tai omalta asuinalueeltaan palvelevan ja sähköpyöriin erikoistuneen valtuutetun huoltoliikkeen.
 
-Twitter: [@ebikehuolto](https://twitter.com/ebikehuolto)
+[<i class="fab fa-fw fa-twitter-square"></i> @ebikehuolto](https://twitter.com/ebikehuolto){: .btn .btn--info}
+{: .text-center}
 

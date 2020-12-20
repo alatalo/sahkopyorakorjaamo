@@ -4,6 +4,9 @@ title: Bosch sähköpyörän vikakoodit
 permalink: /bosch-vikakoodit/
 sidebar:
   nav: "sidenavi"
+toc: true
+toc_label: "Vikakoodi"
+toc_icon: "wrench"
 ---
 
 Jos Bosch sähköpyöräsi ajotietokoneen näyttöön ilmestyy teksti ERROR ja vikakoodin numero, voit tarkistaa tältä sivulta minkätyyppisestä virheestä on kyse.

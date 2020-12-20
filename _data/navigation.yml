@@ -21,6 +21,8 @@ sidenavi:
     children:
       - title: "Etusivu"
         url: "/"
+      - title: "Sähköpyörän huolto"
+        url: "/huolto"
       - title: "Yhteystiedot"
         url: "/yhteys"
       - title: "Miksi?"

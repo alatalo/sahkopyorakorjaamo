@@ -6,26 +6,25 @@ title: Sähköpyörän huolto
 permalink: /
 sidebar:
   nav: "sidenavi"
+gallery:
+  - url: /oulu
+    image_path: /assets/images/oulu.png
+    alt: "Oulun alueen sähköpyöräkorjaamot"
+    title: "Oulun alueen sähköpyöräkorjaamot"
+  - url: /turku
+    image_path: /assets/images/turku.png
+    alt: "Turun alueen sähköpyöräkorjaamot"
+    title: "Turun alueen sähköpyöräkorjaamot"
+  - url: /kouvola
+    image_path: /assets/images/kouvola.png
+    alt: "Kouvolan alueen sähköpyöräkorjaamot"
+    title: "Kouvolan alueen sähköpyöräkorjaamot"
 ---
-
 
 Ostitko sähköpyörän netistä ja yllätyit, kun tuttu ja turvallinen pyöräliike ei suostukaan huoltamaan Saksasta tilaamaasi sähköavusteista pyörää? Ei huolta!
 
-Keräämme näille sivuille suomalaisia kaiken merkkisiä sähköpyöriä huoltavia sähköpyöräkorjaamoja kaikista kaupungeista, kuten [Oulu](/oulu), [Turku](/turku) ja [Kouvola](/kouvola).
+Keräämme näille sivuille suomalaisia kaiken merkkisiä sähköpyöriä huoltavia sähköpyöräkorjaamoja kaikista kaupungeista.
 
-## Sähköpyöräkorjaamo.com auttaa sinua löytämään palvelevan pyörähuollon
+{% include gallery %}
 
-Sähköpyöräkorjaamo.com on aloittanut joulukuussa 2020 ja sen tiedot ovat vielä puutteelliset.
-
-Jos sinulla on tiedossa sivuiltamme puuttuva täyden palvelun sähköpyörän valtuutettu huoltokorjaamo, niin ole hyvä ja kerro siitä meille!
-
-Twitter: [@ebikehuolto](https://twitter.com/ebikehuolto)
-
-## Sähköpyörän huolto
-
-On tärkeää pitää sähköpyörän moottorin ohjelmistopäivitykset ajan tasalla ja huollattaa pyörän sähkömoottori ohjauslaitteineen ja laakereineen ym. säännöllisesti.
-
-Sähköpyörähuollot auttavat sinua myös sähköavusteisen pyörän ohjelmistopäivitys-, diagnostiikka- ja muissa ongelmissa. Sähköpyörän vikadiagnoosin saa nopeasti ja yleensä muutamalla kympillä liikkeistä, joissa on kyseisen sähköpyörän testilaitteisto.
-
-Virallinen, valtuutettu huoltoliike pystyy hoitamaan yhteydet esim. [Bosch](/bosch)-, Brose-, Shimano- ja Yamaha maahantuojiin ja hoitaa kaikenlaiset ebike korjaukset ja päivitykset. Tällaisia ovat mm. ensihuolto, takuuhuolto, ohjelmiston päivitykset, vikakoodien lukeminen ja moottorin vaihto uuteen.
-
+{% include yhteys.md %}
