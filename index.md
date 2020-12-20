@@ -1,7 +1,7 @@
 ---
 #layout: home
 #author_profile: false
-layout: single
+layout: home
 title: Sähköpyörän huolto
 permalink: /
 sidebar:
