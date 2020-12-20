@@ -3,6 +3,9 @@
 #author_profile: false
 layout: home
 title: Sähköpyörän huolto
+excerpt: "Löydä itseäsi lähin sähköpyörän huoltoliike!"
+header:
+  image: /assets/images/splash/bosch01.jpg
 permalink: /
 sidebar:
   nav: "sidenavi"

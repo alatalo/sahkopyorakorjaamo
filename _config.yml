@@ -15,7 +15,7 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "fi-FI"
+locale                   : "fi"
 title                    : "Sähköpyöräkorjaamo.com"
 title_separator          : "-"
 subtitle                 : "Löydä itseäsi lähin sähköpyörän huoltoliike!"
@@ -279,4 +279,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      excerpt_separator: <!--more-->
 
