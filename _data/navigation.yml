@@ -1,6 +1,10 @@
 main:
   - title: "Oulu"
     url: /oulu
+  - title: "Kouvola"
+    url: /kouvola/
+  - title: "Turku"
+    url: /turku/
 #  - title: "Tampere"
 #    url: /tampere
 #  - title: "Helsinki"
@@ -26,12 +30,14 @@ sidenavi:
     children:
       - title: "Oulu"
         url: /oulu/
+      - title: "Kouvola"
+        url: /kouvola/
+      - title: "Turku"
+        url: /turku/
 #      - title: "Tampere"
 #        url: /tampere/
 #      - title: "Helsinki"
 #        url: /helsinki/
-#      - title: "Turku"
-#        url: /turku/
 #      - title: "Espoo"
 #        url: /espoo/
 #      - title: "Vantaa"

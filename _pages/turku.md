@@ -8,12 +8,8 @@ sidebar:
 
 Turun alueen sähköpyöräkorjaamot.
 
-Tulossa.
-
-
-## Sähköpyöräkorjaamo.com auttaa sinua löytämään palvelevan pyörähuollon
-
-Jos sinulla on tiedossa sivuiltamme puuttuva täyden palvelun sähköpyörän valtuutettu huoltokorjaamo, niin ole hyvä ja kerro siitä meille!
-
-Twitter: [@ebikehuolto](https://twitter.com/ebikehuolto)
-
+## Antin Pyörä
+ - valtuutettu Shimano, Yamaha ja Bosch huolto. Tunnemme myös Kalkhoff tekniikat.
+ - Huollamme sähköpyörät ja meiltä saat varaosat sähköpyöriin: akkuja, näyttöjä, näytönjalkoja, näppäimiä, johtosarjoja, rattaita, kampia. Bosch, Yamaha, Shimano, Kalkhoff, Panasonic ja etuvetopyöriin.
+ - Turku
+ - **www.antinpyora.fi**

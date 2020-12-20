@@ -11,7 +11,7 @@ sidebar:
 
 Ostitko sähköpyörän netistä ja yllätyit, kun tuttu ja turvallinen pyöräliike ei suostukaan huoltamaan Saksasta tilaamaasi sähköavusteista pyörää? Ei huolta!
 
-Keräämme näille sivuille suomalaisia kaiken merkkisiä sähköpyöriä huoltavia sähköpyöräkorjaamoja kaikista kaupungeista, kuten [Oulu](/oulu), Tampere, Helsinki, Turku, Espoo ja Vantaa.
+Keräämme näille sivuille suomalaisia kaiken merkkisiä sähköpyöriä huoltavia sähköpyöräkorjaamoja kaikista kaupungeista, kuten [Oulu](/oulu), [Turku](/turku) ja [Kouvola](/kouvola).
 
 ## Sähköpyöräkorjaamo.com auttaa sinua löytämään palvelevan pyörähuollon
 
