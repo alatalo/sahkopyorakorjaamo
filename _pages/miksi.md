@@ -6,21 +6,28 @@ sidebar:
   nav: "sidenavi"
 ---
 
-Hankimme muutama vuosi sitten sähköpyörät ulkomailta ja yllätykseksemme saimme huomata, että perinteiset kivijalkaliikkeet eivät suostuneet huoltamaan niitä. Kivijalkaliike saattoi myydä juuri samanmerkkistä ja -mallista sähköpyörää, mutta ei suostunut huoltamaan niitä, koska kyseinen pyörä ei ollut heiltä ostettu.
+Kaikki pyöräliikkeet eivät huolla sinun sähköpyörääsi.
 
-Osa perinteisistä huoltoliikkeistä ei myöskään osannut auttaa ongelmissamme, vaikka heillä oli sähköpyörämerkin testauslaitteistot olemassa. Heillä ei joko ollut osaamista, tai halukkuutta esim. englanninkieliseen kommunikointiin maahantuojan kanssa.
+### Sähköpyörä on ostettu netistä tai ulkomailta
 
-Tästä sisuuntuneena päätimme etsiä ja listata sellaiset huoltoliikkeet, jotka korjaavat sähköpyöräsi ja auttavat ongelmatilanteissa, eivätkä kysele mistä pyöräsi on ostettu.
+Hankimme sähköpyöriä Saksasta ja yllätykseksemme saimme huomata, että tutut ja turvalliset, paikkakunnan suurimmat kivijalkaliikkeet eivät suostunut huoltamaan niitä. Liikkeet möivät täsmälleen samanmerkkisiä ja -mallisia sähköpyöriä, mutta koska juuri nämä kyseiset pyörät eivät olleet heiltä ostettuja, eivät he suostuneet ottamaan pyöriämme huoltoon.
 
+### Käytetty sähköpyörä, tai muutto muualle
 
-## Ilmianna parhaat sähköpyöriä korjaavat huoltoliikkeet!
+Sama ongelma voi olla vastassa, jos ostit pyöräsi käytettynä. Mistä alkuperäinen ostaja on sen hankkinut?
 
-Haluamme auttaa kaikkia sähköpyöräilystä kiinnostuneita ja sitä harrastavia löytämään omasta kotikaupungistaan tai omalta asuinalueeltaan palvelevan ja sähköpyöriin erikoistuneen valtuutetun huoltoliikkeen.
+Entäpä jos muutat eri paikkakunnalle ja pyörän myyjäliike jää 500km päähän? Kuka sähköpyöräsi huoltaa, kun paikallinen liike kieltäytyy huoltamasta pyöriä joita ei ole heiltä ostettu?
 
-[<i class="fab fa-fw fa-twitter-square"></i> @ebikehuolto](https://twitter.com/ebikehuolto){: .btn .btn--info}
-{: .text-center}
+### Kielitaito ja nykyaikainen teknologia
 
+Osa perinteisistä huoltoliikkeistä ei myöskään osannut auttaa ongelmissamme, vaikka heillä oli sähköpyörämerkin testauslaitteistot olemassa. Heillä ei joko ollut osaamista, tai halukkuutta englanninkieliseen kommunikointiin maahantuojan kanssa.
 
-## Jälkisanat
+Osa pyörähuolloista ei myöskään vastaa puhelimeen, saatika pysty hoitamaan asioita sähköpostilla tai pikaviestimillä asiakkaan kanssa.
 
-Kaikki kunnia perinteisille kivijaloille, mutta toimintatapanne on muinaishistoriaa ja toivomme, että päivitätte käytännönne uudelle vuosituhannelle pian.
+### Siksi Sähköpyöräkorjaamo.com on perustettu
+
+Näistä sisuuntuneena päätimme etsiä ja listata sellaiset huoltoliikkeet, jotka korjaavat sähköpyöräsi ja auttavat asiakasta ongelmatilanteissa, pysyvät moderniin kommunikointiin, eivätkä ensimmäiseksi kysele mistä pyöräsi on ostettu.
+
+*Kaikki kunnia perinteisille kivijaloille, mutta toimintatapanne on muinaishistoriaa ja toivomme, että tulette meidän muiden mukaan nykyiselle vuosituhannelle.*
+
+{% include yhteys.md %}

@@ -55,6 +55,8 @@ sidenavi:
         url: "/bosch/#bosch-ohjelmistopäivitys"
       - title: "Bosch käyttöohjeet"
         url: "/bosch/#bosch-käyttöohjeet"
+      - title: "Bosch pyörämerkit"
+        url: "/bosch/#bosch-moottorilla-varustetut-sähköpyörämerkit"
 
 #      - title: "Brose"
 #        url: https://sahkopyorakorjaamo.com/

@@ -24,9 +24,9 @@ gallery:
     title: "Kouvolan alueen sähköpyöräkorjaamot"
 ---
 
-Ostitko sähköpyörän netistä ja yllätyit, kun tuttu ja turvallinen pyöräliike ei suostukaan huoltamaan Saksasta tilaamaasi sähköavusteista pyörää? Ei huolta!
+Ostitko sähköpyörän netistä ja yllätyit, kun tuttu ja turvallinen pyöräliike ei suostukaan huoltamaan pyörääsi? Eipä huolta!
 
-Keräämme näille sivuille suomalaisia kaiken merkkisiä sähköpyöriä huoltavia sähköpyöräkorjaamoja kaikista kaupungeista.
+Keräämme näille sivuille kaiken merkkisiä sähköpyöriä huoltavia pyörähuoltoja kaikista Suomen kaupungeista.
 
 {% include gallery %}
 

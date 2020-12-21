@@ -1,4 +1,4 @@
-## Sähköpyöräkorjaamo.com auttaa sinua löytämään palvelevan pyörähuollon
+### Autamme sinua löytämään palvelevan sähköpyörähuollon
 
 Sähköpyöräkorjaamo.com on aloittanut joulukuussa 2020 ja sen tiedot ovat vielä puutteelliset.
 

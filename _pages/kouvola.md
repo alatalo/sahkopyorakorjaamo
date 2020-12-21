@@ -9,7 +9,7 @@ sidebar:
 Kouvolan alueen sähköpyöräkorjaamot.
 
 ## Kouvolan Pyöräpaja
- - Shimano, Yamaha, Bosch
+ - Shimano, Yamaha, [Bosch](/bosch)
  - Vikadiagnoosit, ohjelmistopäivitykset, vaihtajan säätämiset, valaisimen kytkennät
  - Kouvola
  - **www.pyorapaja.fi**
